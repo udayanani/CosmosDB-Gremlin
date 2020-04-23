@@ -1,0 +1,9 @@
+https://docs.microsoft.com/en-us/azure/cosmos-db/create-graph-java
+
+
+works with CommandLineRunner
+
+https://github.com/microsoft/azure-spring-boot/tree/master/azure-spring-boot-samples/spring-data-gremlin-boot-sample
+
+
+https://docs.microsoft.com/en-us/azure/java/spring-framework/configure-spring-data-gremlin-java-app-with-cosmos-db
