@@ -1,4 +1,10 @@
+Complete concept:
+https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction
+
+Example:
 https://docs.microsoft.com/en-us/azure/cosmos-db/create-graph-java
+
+
 
 
 works with CommandLineRunner
